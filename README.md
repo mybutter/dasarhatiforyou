@@ -3,11 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Produk Pilihan - Rp29.000</title>
   <link rel="icon" href="https://i.ibb.co/wZ70MQ1S/favicon.ico" />
-  <style>
-   
-  </style>
+  <
 </head>
 <body>
   <main class="container" role="main">
